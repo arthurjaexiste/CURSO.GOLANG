@@ -10,3 +10,5 @@ func main() {
 func init() {
 	fmt.Println("teste")
 }
+
+// na linguagem go ele sempre vai printar a func init primeiro
