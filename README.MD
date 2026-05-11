@@ -1,1 +1,3 @@
-<img aling="center" src="ASSETS/output-onlinegiftools-com.gif" />
+<p align="center">
+  <img src="ASSETS/output-onlinegiftools-com.gif" width="600" />
+</p>
