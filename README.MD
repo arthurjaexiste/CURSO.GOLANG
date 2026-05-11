@@ -1,1 +1,1 @@
-<img src="ASSETS/output-onlinegiftools-com.gif" />
+<img aling="center" src="ASSETS/output-onlinegiftools-com.gif" />
